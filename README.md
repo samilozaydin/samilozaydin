@@ -2,7 +2,7 @@
 <h2 align = "center">I am a CE student from Fatih Sultan Mehmet Vakıf University<h2>
  
  <div align = "center">   
-  <p>- 👀 I am a curious developer who want to learn innovations about tehcnology and want to contribute benefit to humanity.</p>
+  <p>- 👀 I am a curious developer who want to learn innovations about technology and want to contribute benefit to humanity.</p>
  </div>
  <div align = "left">
   <p>- 🌱 I’m currently learning C programming for now.</p>
