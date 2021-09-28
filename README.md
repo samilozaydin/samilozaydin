@@ -12,7 +12,13 @@
   <p>- 🌱 I’m currently learning C programming for now.</p>
  </div>
   
-<h3 >Stats</h3>
+ <div align = "center">
+    <p>Techologies</p>
+    <br/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+ </div>
+
+<h3 align = "center >Stats</h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smlozaydin)](https://github.com/anuraghazra/github-readme-stats)
 
