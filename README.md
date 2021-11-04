@@ -9,7 +9,7 @@
  </div>
  
  <div align = "center">
-    <a href="https://www.linkedin.com/in/%C5%9Famil-bilal-%C3%B6-4ba47618b/" target = "blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt = "image from linkedin about me by 'şamil-bilal-ö-4ba47618b'"></a>
+    <a href="https://www.linkedin.com/in/%C5%9Famil-bilal-%C3%B6zaydin-4ba47618b/" target = "blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt = "image from linkedin about me by 'şamil-bilal-ö-4ba47618b'"></a>
     <a href="https://www.instagram.com/prtznssml/" target = "blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width = 52 alt = "image from linkedin about me by 'şamil-bilal-ö-4ba47618b'"></a>  
  </div>
 
