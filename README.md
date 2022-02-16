@@ -5,7 +5,7 @@
   <p>- 👀 I am a curious developer who want to learn innovations about technology and want to contribute benefit to humanity.</p>
  </div>
  <div align = "left">
-  <p>- 🌱 I’m currently learning C programming for now.</p>
+  <p>- 🌱 I’m currently learning Python programming for now.</p>
  </div>
  
  <div align = "center">
