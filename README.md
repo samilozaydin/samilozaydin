@@ -29,11 +29,11 @@
 <h1 align = "center" >Stats
   <span align = "left">  
                     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smlozaydin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samilozaydin)](https://github.com/anuraghazra/github-readme-stats)
  </span>
  <span align = "right">  
                     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smlozaydin&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samilozaydin&show_icons=true)  
  </span></h1>
              
 
